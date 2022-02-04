@@ -47,7 +47,7 @@ main img {
 
 .item {
   flex: 1;
-  margin: 70px;
+  padding: 10px;
 }
 
 .item-double {
@@ -170,11 +170,9 @@ footer p {
 
   .group {
     flex-direction: row;
-    align-items: center;
   }
 
   #join img {
     display: flex;
     width: 100%;
   }
-}
